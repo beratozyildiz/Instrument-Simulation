@@ -1,5 +1,5 @@
 # Instrument-Simulation
-Combining Software Design Principles with Java Language \n
+# Combining Software Design Principles with Java Language
 In this project its used 6 patterns;
 Decorator Pattern : Decorator pattern is used to count Rhythm’s.
 Abstract Factory Pattern : Abstract Factory is used to instantiate the instrument objects.
